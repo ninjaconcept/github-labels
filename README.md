@@ -8,5 +8,5 @@ Setting up new projects and making sure they have the same set of labels is anno
 How to use it:
 ---
 
-1) Define the labels for your repository in `default_labels.yml`.
-2) Run `./label_import.rb` and provide username, password, organization and repository using the interactive shell.
+1. Define the labels for your repository in `default_labels.yml`.
+2. Run `./label_import.rb` and provide username, password, organization and repository using the interactive shell.
