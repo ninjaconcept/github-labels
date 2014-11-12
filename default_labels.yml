@@ -1,0 +1,25 @@
+---
+- :name: B - Clarifying
+  :color: eb6420
+- :name: B - Feedback
+  :color: eb6420
+- :name: B - Reproduce
+  :color: eb6420
+- :name: B - Styling
+  :color: eb6420
+- :name: D - easy
+  :color: fbca04
+- :name: D - hard
+  :color: fbca04
+- :name: P - high
+  :color: 207de5
+- :name: P - low
+  :color: 207de5
+- :name: S - Code Review
+  :color: 009800
+- :name: S - Finished
+  :color: 009800
+- :name: S - WIP
+  :color: 009800
+- :name: meta
+  :color: 5319e7
