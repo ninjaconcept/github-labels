@@ -89,7 +89,7 @@ def main
     menu.prompt = "Please choose the type of importing you want to do"
 
     menu.choice("Synchronize: Add new labels and update existing ones")
-    menu.choice("Replace: Removes all labels first before synchronizing <%= color('DESTRUCTIVE', RED, BOLD) %>") {
+    menu.choice("Replace: Remove all labels before synchronizing <%= color('DESTRUCTIVE', RED, BOLD) %>") {
       repo.delete_all_labels
     }
   end
