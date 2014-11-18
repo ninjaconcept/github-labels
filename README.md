@@ -20,4 +20,5 @@ Meaning
 | `B`      | **Blocker**: e.g. needs clarifying or reproduction steps before one can continue working on it                       |
 | `D`      | **Difficulty**: easy or hard                                   |
 | `P`      | **Priority**: high or low                                   |
+| `S`      | **Status**: e.g. WIP                                   |
 | `meta`      | **Meta**: Used for grouping several connected issues                                   |
