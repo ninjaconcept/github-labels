@@ -7,6 +7,12 @@
   :color: eb6420
 - :name: B - Styling
   :color: eb6420
+- :name: T - Task
+  :color: bfe5bf
+- :name: T - Bug
+  :color: bfe5bf
+- :name: T - Feature
+  :color: bfe5bf
 - :name: D - easy
   :color: fbca04
 - :name: D - hard
