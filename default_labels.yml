@@ -13,6 +13,8 @@
   :color: bfe5bf
 - :name: T - Feature
   :color: bfe5bf
+- :name: T - Security Issue
+  :color: bfe5bf
 - :name: D - easy
   :color: fbca04
 - :name: D - hard
