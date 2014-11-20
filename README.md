@@ -16,6 +16,7 @@ Meaning
 
 | Shortcut | Meaning                         |
 |----------|-------------------------------------|
+| `A`      | **Topic**: e.g. database, authentication |
 | `T`      | **Type**: e.g. task, feature or bug |
 | `B`      | **Blocker**: e.g. needs clarifying or reproduction steps before one can continue working on it                       |
 | `D`      | **Difficulty**: easy or hard                                   |

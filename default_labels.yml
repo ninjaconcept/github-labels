@@ -1,4 +1,10 @@
 ---
+- :name: A - Database
+  :color: bfd4f2
+- :name: A - Authentication
+  :color: bfd4f2
+- :name: A - Authorization
+  :color: bfd4f2
 - :name: B - Clarifying
   :color: eb6420
 - :name: B - Feedback
