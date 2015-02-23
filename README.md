@@ -23,3 +23,13 @@ Meaning
 | `P`      | **Priority**: high or low                                   |
 | `S`      | **Status**: e.g. WIP                                   |
 | `meta`      | **Meta**: Used for grouping several connected issues                                   |
+
+
+2-Factor Authentication
+---
+
+To use this script with 2-FA enabled (you definitely should!) you need to create a personal access token on [github](https://github.com/settings/applications#personal-access-tokens).
+
+**Then pass the token as your password. Done.**
+
+This is possible since GitHub API supports using an OAuth token as a Basic password.
